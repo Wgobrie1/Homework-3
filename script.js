@@ -40,7 +40,7 @@ function generatePassword(){
 	return;
   }
 
-  if (choiceLower == "y"){ // 43-56 add the character types to an array, to allow a random one to be selected later
+  if (choiceLower == "y"){ // 43-56 add the character types to an array, to allow a random one to be selected later.
   	  choice.push("lower");
   }
 
